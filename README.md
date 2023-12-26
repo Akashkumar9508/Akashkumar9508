@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Akashkumar9508">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+akashkumar9508....;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+akashkumar9508....;Nice+to+meet+you!&center=true&size=22">
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
