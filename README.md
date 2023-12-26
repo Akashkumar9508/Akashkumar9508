@@ -1,4 +1,9 @@
-# 💫 About Me:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+akashkumar9508....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 🔭 I’m currently persuving BCA<br>👯 I’m looking to collaborate on a big Project<br>🤝 I’m looking for help with good Mentor<br>🌱 I’m currently learning Web development<br>💬 Ask me about my self.<br>⚡ Fun fact , I change my mind on the basis of situation.
 
 
